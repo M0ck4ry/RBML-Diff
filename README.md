@@ -2,7 +2,7 @@
 
 # RBML-Diff
 
-This repository is the official implementation of [RBML-Diff: Diffusion Model with Region-Boundary Mutual Learning for Polyp Seg-
+This repository is the official implementation of [RBML-Diff: Diffusion Model with Region-Boundary Mutual Learning for Polyp Seg
 mentation](). 
 
 Our implementation is based on the denoising diffusion repository from <a href="https://github.com/M0ck4ry/RBML-Diff">lucidrains</a>
